@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>vaheeds</author>
+  <title>نحوه صحیح ثبت گزارشکار مـرمـت</title>
+  <description />
+  <content>&lt;!--CTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dt--&gt;
+&lt;p style="direction: rtl; font-family: Tahoma;"&gt;از آنجا که یکی از عملیات پرکاربرد در نگهداری شبکه کابل، حفاری و مرمت می باشد در این نوشته می خواهیم طریقه صحیح ثبت مرمت ها را در سیستم یکپارچه شبکه کابل و هوایی برای شما کاربران گرامی توضیح دهیم.&lt;/p&gt;
+&lt;p style="direction: rtl; font-family: Tahoma;"&gt;در نرم افزار ثبت مرمت به گونه ای تعریف شده است که حتما باید قبل از آن اعلام نیاز شده باشد. اعلام نیاز یعنی این که شما در گزارشکاری آیتم &lt;span style="color: #009900"&gt;&lt;strong&gt;&amp;laquo;نیاز به مرمت&amp;raquo;&lt;/strong&gt;&lt;/span&gt; را به عنوان یک عملیات درج کرده باشید. در دو صورت می توان &amp;laquo;نیاز به مرمت&amp;raquo; را ثبت کرد:&lt;/p&gt;
+&lt;p style="direction: rtl; margin-right: 50px; font-family: Tahoma;"&gt;&lt;em&gt;1-در صورتی که در محل حفاری انجام شده باشد&amp;nbsp;&amp;nbsp;&amp;nbsp; 2- در صورتی که حفاری انجام نشده باشد، ولی محل &lt;/em&gt;&lt;span style="color: #009900; "&gt;&lt;em&gt;&lt;strong&gt;نیاز به مرمت&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;em&gt; داشته باشد&lt;/em&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; font-family: Tahoma;"&gt;مراحل کار برای ثبت گزارشکار مرمت بدین صورت است:&lt;/p&gt;
+&lt;p style="direction: rtl; margin-right: 70px"&gt;&lt;span style="font-family: Tahoma"&gt;&amp;nbsp;ابتدا در گزارشکار حفاری را با واحد &lt;strong&gt;متر&lt;/strong&gt; ثبت می کنیم . مثلا حفاری آسفالت 8 متر.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; margin-right: 70px"&gt;&lt;span style="font-family: Tahoma"&gt;سپس &lt;span style="color: #009900"&gt;&lt;strong&gt;مرمت مورد نیاز&lt;/strong&gt;&lt;/span&gt; را با واحد &lt;strong&gt;مترمربع&lt;/strong&gt; ثبت می کنیم. برای مثال بالا &lt;span style="color: #009900"&gt;&lt;strong&gt;مرمت مورد نیاز آسفالت&lt;/strong&gt;&lt;/span&gt; 4 مترمربع.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; margin-right: 70px; font-family: Tahoma;"&gt;تا الان به نرم افزار اعلام کرده اید که در این گزارشکار محلی &lt;span style="color: #009900"&gt;&lt;strong&gt;نیاز به مرمت&lt;/strong&gt;&lt;/span&gt; داشته و شما در آینده گزارشکار دیگری برای &lt;span style="color: #3333CC"&gt;&lt;strong&gt;ا&lt;/strong&gt;&lt;/span&gt;&lt;span style="color: #0000FF"&gt;&lt;strong&gt;نجام مرمت&lt;/strong&gt;&lt;/span&gt; این محل ثبت خواهید کرد. توجه داشته باشید که &lt;span style="color: #FF0000"&gt;فقط در صورتی می توانید گزارشکار انجام مرمت را ثبت کنید که گزارشکار حاوی &amp;laquo;نیاز به مرمت&amp;raquo; به تایید ناظر رسیده باشد.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; margin-right: 70px; font-family: Tahoma;"&gt;موارد مرتبط دیگر هم در این گزارشکار ثبت می شوند. مثلا کابل کشی 8 متر. فراموش نکنید که کلیه عملیات و لوازم مصرفی مربوطه را هم بدون هیچ مشکلی می توانید در همین گزارشکار ثبت کنید.&lt;/p&gt;
+&lt;p style="direction: rtl; font-family: Tahoma;"&gt;حال زمان ثبت گزارشکار &lt;span style="color: #0000FF"&gt;&lt;strong&gt;انجام مرمت&lt;/strong&gt;&lt;/span&gt; فرا رسیده است، با انتخاب آیتم &lt;span style="color: #0000FF"&gt;&lt;strong&gt;&amp;laquo;انجام مرمت&amp;raquo;&lt;/strong&gt;&lt;/span&gt; پنجره ای باز می شود که شامل لیست کلیه مرمتهایی است که قبلا اعلام نیاز شده اند. با دابل کلیک بر روی مرمت مورد نظر به صفحه گزارشکار برگشته و حال باید متراژ آن را به &lt;strong&gt;مترمربع&lt;/strong&gt; مجددا وارد نمایید. لینک بین گزارشکارها برقرار شده است.&lt;/p&gt;
+&lt;p style="direction: rtl; font-family: Tahoma; color: #FF0066;"&gt;&lt;em&gt;ت&lt;/em&gt;&lt;span style="color: #FF0000"&gt;&lt;em&gt;وجه داشته باشید که در صورتی که مرمت مورد نیاز توسط ناظر تایید نشده باشد، در پنجره ذکر شده فوق نمایش داده نخواهد شد.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; font-family: Tahoma"&gt;امیدوارم که توضیحات فوق موثر بوده و از آنجا که &lt;span style="color: #0000FF"&gt;&lt;strong&gt;انجام مرمت&lt;/strong&gt;&lt;/span&gt; در همه انواع گزارشکارها شامل &amp;laquo;کد پیش بینی شده&amp;raquo; می شود، دیگر مشکلی در ثبت گزارشکار مرمت پیش نیاید.&lt;/p&gt;
+&lt;p style="direction: rtl; font-family: Tahoma"&gt;در صورت داشتن هر گونه سوال و یا ابهام می توانید پرسش خود را در قسمت نظرات مطرح کنید، تا به سوال شما توسط بنده و یا دیگر کاربران قدیمیتر پاسخ داده شود.&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2011-02-14 11:04:00</pubDate>
+  <lastModified>2011-02-14 11:11:59</lastModified>
+  <raters>5</raters>
+  <rating>4.8</rating>
+  <slug>d986d8add988d987-d8b5d8addb8cd8ad-d8abd8a8d8aa-daafd8b2d8a7d8b1d8b4daa9d8a7d8b1-d985d980d8b1d985d980d8aa</slug>
+  <tags>
+    <tag>مرمت</tag>
+    <tag>گزارشکار</tag>
+    <tag>مرمت مورد نیاز</tag>
+    <tag>انجام مرمت</tag>
+  </tags>
+  <comments>
+    <comment id="fdca1802-2e56-4ff7-b3d8-952690c51e57" parentid="00000000-0000-0000-0000-000000000000" approved="True">
+      <date>2011-02-14 12:27:22</date>
+      <author>حسینی</author>
+      <email>hoseini343@yahoo.com</email>
+      <country />
+      <ip>10.2.12.58</ip>
+      <content>باسلام واحترام-باستحضار میرساند که علاوه برمورد اشاره شده بایستی تاریخ گزارشکار انجام مرمت بزرگتر ویا مساوی تاریخ گزارشکار نیاز به مرمت باشد</content>
+    </comment>
+    <comment id="794b3d66-90a5-49e6-b20e-7b02dee9b97d" parentid="00000000-0000-0000-0000-000000000000" approved="True">
+      <date>2011-11-27 07:50:22</date>
+      <author>صادقی</author>
+      <email>sadeghi@tci-khorasan.ir</email>
+      <country />
+      <ip>10.1.16.62</ip>
+      <content>با تشکر از اشاره شما به نکته ذکر شده</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>c712c690-bced-4b9a-a57e-16dab4887e3f</category>
+  </categories>
+  <notifications>
+    <email>hoseini343@yahoo.com</email>
+  </notifications>
+</post>

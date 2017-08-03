@@ -1,0 +1,15 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 7/23/2017 1:30:42 AM
+Dashboard news feed: Unable to connect to the remote server
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+تاریخ: 7/23/2017 01:32:00 AM
+Dashboard news feed: Unable to connect to the remote server
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+تاریخ: 7/23/2017 01:33:26 AM
+Dashboard news feed: Unable to connect to the remote server
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+تاریخ: 8/3/2017 11:17:11 PM
+Dashboard news feed: The underlying connection was closed: An unexpected error occurred on a receive.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+تاریخ: 8/4/2017 03:23:50 AM
+Dashboard news feed: The underlying connection was closed: An unexpected error occurred on a receive.

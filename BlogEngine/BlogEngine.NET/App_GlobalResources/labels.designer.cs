@@ -7380,7 +7380,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You already rated this post.
+        ///   Looks up a localized string similar to شما قبلا امتیاز  داده اید.
         /// </summary>
         internal static string youAlreadyRated {
             get {

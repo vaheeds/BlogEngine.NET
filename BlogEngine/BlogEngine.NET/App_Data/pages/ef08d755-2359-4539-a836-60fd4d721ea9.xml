@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>طریقه نصب نرم افزار</title>
+  <description />
+  <content>&lt;div style="text-align: right;"&gt;
+&lt;p style="FONT-FAMILY: Tahoma"&gt;&lt;span style="font-size: small;"&gt;کاربران گرامی: برای نصب نرم افزار کافیست مراحل ذکر شده در ادامه را به ترتیب انجام دهید.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;1-فایل نصب نرم افزار را از &lt;/span&gt;&lt;/span&gt;&lt;a href="http://nis/Windows_App/Install/Release.zip"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;اینجا&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt; دانلود کنید&lt;/span&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;2-پس از اتمام دانلود فایل مورد نظر رااز حالت فشرده خارج کنید.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;3-برای این منظور بر روی فایل Release.zip کلیک راست کرده و گزینه Extract All را بزنید.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;4-بررسی کنید تا فضای کافی(300 تا 500 مگابایت) بر روی هارددیسک شما موجود باشد.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/span&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;5-از داخل پوشه Release فایل Setup.exe را اجرا کنید.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;6-روال عادی نصب نرم افزار را با چند کلیک بر روی دکمه Accept و Next ادامه دهید.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;7-پس از اتمام نصب لازم است تا یک میانبر بر روی صفحه Desktop ایجاد شود.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;8-به سایت &lt;/span&gt;&lt;/span&gt;&lt;a href="http://nis/"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;نرم افزار &lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;رفته و لینک "&lt;/span&gt;&lt;/span&gt;&lt;a href="http://nis/windows_app/publish/Cable Networks Integrated System (CNIS).application"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt; اجرای نرم افزار یکپارچه شبکه کابل و هوایی&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;" (همین لینک) را کشیده و بر روی Desktop رها کنید.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;9-نرم افزار را از روی آیکون ایجاد شده اجرا کنید و دکمه Run را کلیک کنید.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;10-نصب و اجرای نرم افزار به پایان رسیده است، با نام کاربری و کلمه عبور خود وارد نرم افزار شوید.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="color: red;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: courier new,courier;"&gt;در صورت بروز مشکل با پشتیبان تماس بگیرید.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  <keywords>نصب نرم افزار,کاربران جدید</keywords>
+  <slug>d8b7d8b1db8cd982d987-d986d8b5d8a8-d986d8b1d985-d8a7d981d8b2d8a7d8b1</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>True</ispublished>
+  <datecreated>2009-12-19 07:54:50</datecreated>
+  <datemodified>2013-01-21 09:44:39</datemodified>
+</page>

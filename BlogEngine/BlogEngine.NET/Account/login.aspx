@@ -6,16 +6,16 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <asp:Login ID="LoginUser" runat="server" EnableViewState="false" RenderOuterTable="false" OnAuthenticate="LoginUser_OnAuthenticate">
         <LayoutTemplate>
-            <h1 class="account-title">
+            <h1 class="account-title" dir="rtl">
                 <asp:Label runat="server" ID="lblTitle" Text="<%$Resources:labels,login %>" />
             </h1>
-            <div class="account-body">
+            <div class="account-body" dir="rtl">
                 <div class="form-group">
-                    <label>Username</label>
+                    <label>نام کاربری</label>
                     <asp:TextBox ID="UserName" runat="server" AutoCompleteType="None" CssClass="textEntry ltr-dir"></asp:TextBox>
                 </div>
                 <div class="form-group">
-                    <label>Password</label>
+                    <label>رمز عبور</label>
                     <asp:TextBox ID="Password" runat="server" CssClass="passwordEntry ltr-dir" TextMode="Password"></asp:TextBox>
                 </div>
                 <div class="form-group with-icon">

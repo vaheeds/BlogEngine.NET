@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widgets>
+  <widget id="42fcbe7c-2c9c-440a-bad9-65a94472fccc" title="مدیریت وبلاگ" showTitle="True">Administration</widget>
+  <widget id="d8b88cfe-54ce-4dee-8fbe-498a78c24aad" title="لیست صفحات سایت نظارت" showTitle="True">Page List</widget>
+  <widget id="5dc52910-504f-4c27-ad5a-a79ca884ada9" title="تقویم پستهای ارسالی" showTitle="True">Calendar</widget>
+  <widget id="c6fcf685-e97b-4a15-b29d-0bc2ed6a7cb7" title="درباره نویسنده" showTitle="True">TextBox</widget>
+  <widget id="b37d8d43-f793-4b69-aead-6ecdbc81af05" title="پستهای اخیر" showTitle="True">RecentPosts</widget>
+  <widget id="7234725c-dcb7-4b59-91d9-03c6ab69c43e" title="بیشترین نظرات" showTitle="True">Most comments</widget>
+</widgets>

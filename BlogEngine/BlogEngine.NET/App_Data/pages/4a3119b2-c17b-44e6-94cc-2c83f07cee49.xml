@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>نحوه صحیح ثبت دفتر خرابی های ماهیانه</title>
+  <description />
+  <content>&lt;h1 style="text-align: center; color: #993300; font-family: 'B Mitra';"&gt;نحوه صحیح&amp;nbsp;ثبت دفتر خرابی&lt;/h1&gt;
+&lt;p style="text-align: right; font-family: Tahoma;"&gt;از آنجا که ثبت دفتر خرابی در تولید آمار خرابی نقش کلیدی را ایفا می کند، در این نوشته قصد داریم نحوه صحیح ثبت دفتر خرابی را به شما کاربران گرامی آموزش داده تا از ایجاد هر گونه مغایرت در آمار خرابیهای پایان ماه، جلوگیری به عمل آید.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: Tahoma"&gt;اولین قدم در ثبت دفتر، دریافت خرابیهای ارجاع شده ام دی اف مرکز، تا آن لحظه می باشد که توسط دکمه &lt;strong&gt;&lt;em&gt;دریافت از ام دی اف&lt;/em&gt;&lt;/strong&gt; تمام خرابیهای موجود به همراه شماره تلفن، تاریخ و ساعت ارجاع و اطلاعات فنی مربوطه در دفتر شبکه هوایی کپی می شود.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right"&gt;&lt;span style="font-family: Tahoma"&gt;حال بسته به این که خرابی هر ردیف &lt;/span&gt;&lt;span style="color: #3333CC; font-family: Tahoma"&gt;&lt;strong&gt;کابلی&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-family: Tahoma"&gt; باشد یا &lt;/span&gt;&lt;span style="color: #009933; font-family: Tahoma"&gt;&lt;strong&gt;هوایی&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-family: Tahoma"&gt;، روش متفاوتی را داریم:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right"&gt;&lt;span style="font-family: Tahoma"&gt;اگر خرابی &lt;/span&gt;&lt;span style="color: #009933; font-family: Tahoma"&gt;&lt;strong&gt;هوایی&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-family: Tahoma"&gt; باشد، کافیست تا ساعت و تاریخ اصلاح آن را در ستون مربوطه و با قالب درست (--/--/--13 برای تاریخ و __:__ برای ساعت) نوشته و موضع خرابی را از لیست کشویی ستون آخر انتخاب کنیم. به این ترتیب کار ثبت یک ردیف خرابی تمام شده است، به ردیف بعدی می رویم.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right"&gt;&lt;span style="font-family: Tahoma"&gt;در صورتی که خرابی مربوط به &lt;/span&gt;&lt;span style="color: #3333CC; font-family: Tahoma"&gt;&lt;strong&gt;کابل&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-family: Tahoma"&gt; باشد، موضع آن را از ستون انتهایی مشخص کرده (آبونه یا مرکزی) تاریخ و ساعت اصلاح هوایی را خالی گذاشته و به جای آن تاریخ و ساعت ارجاع به کابل را پر می کنیم. دکمه ذخیره را زده و در حالی که بر روی ردیف مذکور قرار داریم، دکمه ارجاع به کابل را کلیک می کنیم.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right; font-family: Tahoma;"&gt;با کلیک بر روی دکمه ذکر شده به صفحه خرابی های کابلی منتقل می شویم. در صورتی که ساعت و تاریخ اصلاح خرابی کابل موجود است، آن را در ستون مربوطه وارد می کنیم، در غیر اینصورت پس از رفع خرابی توسط مامور، تاریخ و ساعت را ثبت می کنیم.&lt;/p&gt;
+&lt;p style="text-align: right; font-family: Tahoma;"&gt;برای هر خرابی کابلی باید یک گزارشکار کابل متناظر در سیستم ثبت شود. دو روش برای این کار دارید:&lt;/p&gt;
+&lt;p style="text-align: right"&gt;&lt;span style="font-family: Tahoma"&gt;از روش معمول ثبت گزارشکار در قسمت گزارشکار کابل در صورت وضعیت اقدام کنید و در قسمت شماره فرم خرابی شماره فرم مربوطه را وارد کنید.(&lt;span style="color: #FF0000"&gt;این روش کند است&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right"&gt;&lt;span style="font-family: Tahoma"&gt;در قسمت خرابی های کابل در دفتر خرابی در انتهای هر ردیف خرابی، لینکی با نام &lt;span style="color: #0000ff; text-decoration: underline;"&gt;&lt;em&gt;مشاهده&lt;/em&gt;&lt;/span&gt; قرارداده شده است که با کلیک بر روی آن می توانید گزارشکاری را برای خرابی فوق ایجاد کنید و برخی از اطلاعات گزارشکار ذکر شده نیز به طور خودکار پر می شوند. در صورتی که گزارشکار را قبلا ایجاد کرده اید با این روش می توانید لینک گزارشکار و ردیف خرابی را برقرار نمایید.(&lt;span style="color: #009933"&gt;این روش سریع تر است&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right; font-family: Tahoma;"&gt;مراحل ثبت خرابی ها به پایان رسیده است ، پیشنهاد می شود خرابی ها را به صورت روزانه ثبت کنید.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: Tahoma"&gt;مرحله پس از ثبت خرابی مربوط به &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;ناظرین شبکه&lt;/strong&gt;&lt;/span&gt; می باشد که باید پس از اینکه صحت ثبت دفتر خرابی مورد تایید قرار گرفت، هر ردیف خرابی را با زدن تیک ستون آخر آن ردیف تایید کنند.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right; font-family: Tahoma;"&gt;پس از زدن تیک تایید توسط ناظر، ردیف مربوطه دیگر توسط پیمانکار و ناظر قابل ویرایش نخواهد بود.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: Tahoma"&gt;ناظر می تواند جهت تسریع در امر تایید، از دکمه &lt;span style="text-decoration: underline;"&gt;&lt;em&gt;&lt;strong&gt;تایید خرابی ها توسط ناظر&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt; استفاده کند.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right; font-family: Tahoma;"&gt;در هر لحظه برای مشاهده آمار لحظه ای خرابی ها، به سربرگ &amp;laquo;آمار خرابی&amp;raquo; مراجعه کنید.&lt;/p&gt;
+&lt;h3 style="text-align: right; font-family: Tahoma;"&gt;توجه داشته باشید که در پایان هر ماه قبل از تایید جداول صورت وضعیت، دفتر خرابی را تایید کنید و از نبودن هر گونه مشکل و مغایرت در ثبت، مطمئن شوید. زیرا&amp;nbsp; آمار چاپ شده در نرم افزار، از همین دفتر تهیه می شوند.&lt;/h3&gt;
+&lt;p style="text-align: right"&gt;&lt;em&gt;&lt;span style="font-family: Tahoma; background-color: #F1F8F5"&gt;نکته: می توانید برای سرعت در ورود تاریخ و ساعت در هر ردیف، بر روی سلول مربوطه دابل کلیک کنید.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: right; font-family: Tahoma;"&gt;&lt;em&gt;&lt;span style="background-color: #F1F8F5"&gt;توجه: به پیغامهایی که در حین کار با دفتر خرابی مواجه می شوید، توجه نمایید.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+  <keywords>راهنما,آموزش</keywords>
+  <slug>d986d8add988d987-d8b5d8addb8cd8ad-d8abd8a8d8aa-d8afd981d8aad8b1-d8aed8b1d8a7d8a8db8c</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>True</ispublished>
+  <datecreated>2011-01-16 15:05:43</datecreated>
+  <datemodified>2013-01-05 13:27:04</datemodified>
+</page>

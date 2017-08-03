@@ -1,0 +1,263 @@
+<html dir="rtl"><head>
+<meta http-equiv="Content-Language" content="fa">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+<title>تبد&#1740;ل مختصات جغراف&#1740;ا&#1740;&#1740; از درجه به اعشار و از اعشار به درجه</title>
+</head>
+
+<body>
+
+<table id="table1" align="center" border="0" width="37%">
+	<tbody><tr>
+		<td>
+		<table valign="top" id="table2" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td bgcolor="#ffffff" valign="top" width="555">
+				<p class="bodytext" align="center"><b><font size="2">
+<script language="javascript" type="text/javascript"><!--
+   var latsign = 1;
+   var lonsign = 1;
+   var absdlat = 0;
+   var absdlon = 0;
+   var absmlat = 0;
+   var absmlon = 0;
+   var absslat = 0;
+   var absslon = 0;
+--></script>
+
+				</font><font size="2" face="Tahoma"><span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<font color="#800000">&nbsp;</font></span><font color="#0000FF">الف)</font><font color="#800000"><span lang="en-us">
+				</span></font><font color="#800000">تبد&#1740;ل مختصات جغراف&#1740;ا&#1740;&#1740; از 
+				س&#1740;ستم درجه به س&#1740;ستم اعداد اعشار&#1740;</font></font></b></p>
+				<p class="bodytext" dir="ltr" align="center"><span lang="en-us">&nbsp;<font color="#0000FF">A:</font>&nbsp;
+				</span>Degrees Minutes Seconds to Decimal Degrees<span lang="en-us">
+				</span></p>
+				<form enctype="application/x-www-form-urlencoded " method="post" name="form10">
+					<table summary="" id="table3" bgcolor="#fecbaf" border="0" cellpadding="7" width="610">
+						<tbody><tr>
+							<td class="bodytext" colspan="2">
+							<p align="left">
+							<input value="درجه" name="B1" style="width: 60; height: 35; font-family: Tahoma; color: #0000FF; font-weight: bold" type="button">
+							<input value="دق&#1740;قه" name="B3" style="width: 60; height: 35; font-family: Tahoma; color: #0000FF; font-weight: bold" type="button">
+							<input value="ثان&#1740;ه" name="B2" style="width: 75; height: 35; font-family: Tahoma; color: #0000FF; font-weight: bold" type="button"><span lang="en-us">&nbsp;
+							</span></p></td>
+						</tr>
+						<tr>
+							<td class="bodytext" colspan="2" width="576">
+							<p align="left"><font size="2" face="Tahoma">
+							<label for="DMSlat">در ا&#1740;ن محل عرض جغراف&#1740;ا&#1740;&#1740; را 
+							برحسب درجه ، دق&#1740;قه و ثان&#1740;ه بنو&#1740;س&#1740;د</label></font><nobr><input onblur="
+
+
+      if(form10.dlat.value < 0)  { latsign = -1; }
+      absdlat = Math.abs( Math.round(form10.dlat.value * 1000000.));
+
+	 //Math.round is used to eliminate the small error caused by rounding in the computer:
+	 //e.g. 0.2 is not the same as 0.20000000000284
+
+     //Error checks
+     if(absdlat > (90 * 1000000)) { alert(' Degrees Latitude must be in the range of -90 to 90. '); form10.dlat.value = '';  form10.dlat.value=''; form10.mlat.value=''; }
+
+" style="font-size: 12pt; text-align: center" id="DMSlat" tabindex="1" maxlength="4" size="4" name="dlat" type="INT">&nbsp;<input onblur="
+
+    form10.mlat.value = Math.abs(Math.round(form10.mlat.value * 1000000.)/1000000);  //integer
+    absmlat = Math.abs(Math.round(form10.mlat.value * 1000000.));  //integer
+
+     //Error checks
+     if(absmlat >= (60 * 1000000)) {  alert(' Minutes Latitude must be in the range of 0 to 59. ');   form10.mlat.value=''; form10.slat.value=''; }
+
+
+ " style="font-size: 12pt; text-align: center" id="DMSlat" tabindex="2" maxlength="2" size="4" name="mlat" type="INT">&nbsp;<input onblur="
+
+     form10.slat.value = Math.abs(Math.round(form10.slat.value * 1000000.)/1000000);
+     absslat = Math.abs(Math.round(form10.slat.value * 1000000.));         // Note: kept as big integer for now, even if submitted as decimal
+
+     //Error checks
+     if(absslat > (59.99999999 * 1000000)) {  alert(' Minutes Latitude must be 0 or greater \n and less than 60. ');   form10.slat.value=''; }
+
+" style="font-size: 12pt; text-align: center" id="DMSlat" tabindex="3" maxlength="6" size="6" name="slat" type="INT"></nobr></p></td>
+						</tr>
+						<tr>
+							<td class="bodytext" colspan="2" width="576">
+							<p align="left"><font size="2" face="Tahoma">
+							<label for="DMSlat">در ا&#1740;ن محل طول جغراف&#1740;ا&#1740;&#1740; را 
+							برحسب درجه ، دق&#1740;قه و ثان&#1740;ه بنو&#1740;س&#1740;د</label></font><nobr><input onblur="
+
+      if(form10.dlon.value < 0)  { lonsign = -1; }
+      absdlon = Math.abs( Math.round(form10.dlon.value * 1000000.));
+
+	 //Math.round is used to eliminate the small error caused by rounding in the computer:
+	 //e.g. 0.2 is not the same as 0.20000000000284
+
+     //Error checks
+     if(absdlon > (180 * 1000000)) {  alert(' Degrees Longitude must be in the range of -180 to 180. '); form10.dlon.value=''; form10.mlon.value='';}
+
+
+
+" style="font-size: 12pt; text-align: center" id="DMSlon" tabindex="4" maxlength="4" size="4" name="dlon" type="INT">&nbsp;<input onblur="
+
+     form10.mlon.value = Math.abs(Math.round(form10.mlon.value * 1000000.)/1000000);  //integer
+     absmlon = Math.abs(Math.round(form10.mlon.value * 1000000));  //integer
+     //Error checks
+     if(absmlon >= (60 * 1000000))   {  alert(' Minutes Longitude must be in the range of 0 to 59. ');   form10.mlon.value=''; form10.slon.value=''; }
+
+
+ " style="font-size: 12pt; text-align: center" id="DMSlon" tabindex="5" maxlength="2" size="4" name="mlon" type="INT">&nbsp;<input onblur="
+
+     form10.slon.value = Math.abs(Math.round(form10.slon.value * 1000000.)/1000000);
+     absslon = Math.abs(Math.round(form10.slon.value * 1000000.));         // Note: kept as big integer for now, even if submitted as decimal
+
+     //Error checks
+     if(absslon > (59.99999999 * 1000000)) {  alert(' Minutes Latitude must be 0 or greater \n and less than 60. ');   form10.slon.value=''; }
+
+" style="font-size: 12pt; text-align: center" id="DMSlon" tabindex="6" maxlength="6" size="6" name="slon" type="INT"></nobr></p></td>
+						</tr>
+						<tr>
+							<td colspan="2" align="center">
+							<input style="font-family: Tahoma; color: #800000; height: 35; background-color: #ddefff" tabindex="7" onclick="
+
+     form10.alat.value = Math.round(absdlat + (absmlat/60.) + (absslat/3600.) ) * latsign/1000000;
+     form10.alon.value = Math.round(absdlon + (absmlon/60) + (absslon/3600) ) * lonsign/1000000;
+	 latsign=1;
+	 lonsign=1;
+
+" value="تبد&#1740;ل به س&#1740;ستم اعشار" size="37" name="submit1" type="button">&nbsp; &nbsp;<input tabindex="8" onclick="
+
+form10.reset;
+absdlat=0;
+absdlon=0;
+absmlat=0;
+absmlon=0;
+absslat=0;
+absslon=0;
+form10.alat.value=0;
+form10.alon.value=0;
+
+" value="پاک کردن" style="font-family: Tahoma; color: #006600; height: 35" type="reset"></td>
+						</tr>
+						<tr>
+							<td align="center" bgcolor="#EEEEAB" width="266">
+							<nobr><font size="2" face="Tahoma">عرض جغراف&#1740;ا&#1740;&#1740; به 
+							صدم<span lang="en-us"> </span></font></nobr>
+							<p><nobr>&nbsp;<input style="font-size: 12pt; text-align: center; direction: ltr" id="alat" tabindex="9" maxlength="17" size="17" name="alat" type="INT">&nbsp;</nobr></p></td>
+							<td align="center" bgcolor="#EEEEAB" width="310">
+							<nobr><font size="2" face="Tahoma">
+							<span lang="en-us">&nbsp;</span>طول جغراف&#1740;ا&#1740;&#1740; به صدم</font></nobr><p>
+							<nobr>
+							<input style="font-size: 12pt; text-align: center; direction: ltr; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px" id="alon" tabindex="10" maxlength="17" size="17" name="alon" type="INT"></nobr></p></td>
+						</tr>
+					</tbody></table>
+				</form>
+				<table valign="top" id="table4" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td bgcolor="#ffffff" valign="top" width="555">
+						<p class="bodytext">
+<script language="javascript" type="text/javascript"><!--
+   var signlat = 1;
+   var signlon = 1;
+   var latAbs=0;
+   var lonAbs=0;
+   var deglat=' ';
+   var deglon=' '
+--></script>
+
+						</p>
+						<form enctype="application/x-www-form-urlencoded " method="post" name="form11">
+							<p class="bodytext" align="center"><b>
+							<font color="#0000FF" size="2" face="Tahoma">ب)</font><font color="#800000" size="2" face="Tahoma"> 
+							تبد&#1740;ل مختصات جغراف&#1740;ا&#1740;&#1740; از س&#1740;ستم اعداد اعشار&#1740; به 
+							س&#1740;ستم درجه</font></b></p>
+							<p class="bodytext" align="center">
+							<span lang="en-us">&nbsp;<font color="#0000FF">B:</font>&nbsp;
+							</span>Decimal Degrees to Degrees Minutes Seconds
+							</p>
+							<table class="bodytext" summary="" id="table5" bgcolor="#fecbdf" border="0" cellpadding="7" width="600">
+								<tbody><tr>
+									<td class="bodytext" width="488">
+									<font size="2" face="Tahoma">
+									<label for="DMSlat">در ا&#1740;ن محل عرض جغراف&#1740;ا&#1740;&#1740; 
+									را برحسب صدم اعشار بنو&#1740;س&#1740;د(مثل 36.50)</label></font></td>
+									<td class="bodytext" width="78"><nobr>
+									<input onblur="
+
+      if(form11.decimalLat.value < 0)  { signlat = -1; }
+      latAbs = Math.abs( Math.round(form11.decimalLat.value * 1000000.));
+
+	 //Math.round is used to eliminate the small error caused by rounding in the computer:
+	 //e.g. 0.2 is not the same as 0.20000000000284
+
+     //Error checks
+     if(latAbs > (90 * 1000000)) { alert(' Degrees Latitude must be in the range of -90. to 90. '); form11.decimalLat.value = '';  latAbs=0; }
+
+" style="font-size: 12pt; text-align: center" id="DegreesLat" tabindex="11" maxlength="10" size="11" name="decimalLat" type="INT"></nobr></td>
+								</tr>
+								<tr>
+									<td width="488">
+									<font size="2" face="Tahoma">
+									<label for="DMSlat">در ا&#1740;ن محل طول جغراف&#1740;ا&#1740;&#1740; 
+									را برحسب صدم اعشار بنو&#1740;س&#1740;د(مثل 48.25)</label></font></td>
+									<td class="bodytext" width="78">
+									<input onblur="
+
+      if(form11.lonDecimal.value < 0)  { signlon = -1; }
+      lonAbs = Math.abs(Math.round(form11.lonDecimal.value * 1000000.));
+
+	 //Math.round is used to eliminate the small error caused by rounding in the computer:
+	 //e.g. 0.2 is not the same as 0.20000000000284
+
+     //Error checks
+     if(lonAbs > (180 * 1000000)) {  alert(' Degrees Longitude must be in the range of -180 to 180. '); form11.lonDecimal.value='';  lonAbs=0; }
+
+" style="font-size: 12pt; text-align: center" id="DegreesLon" tabindex="12" maxlength="11" size="11" name="lonDecimal" type="INT">&nbsp;</td>
+								</tr>
+								<tr>
+									<td colspan="2" align="center">
+									<input style="font-family: Tahoma; color: #800000; height: 35; background-color: #ddefff" tabindex="13" onclick="
+
+form11.deglat.value = ((Math.floor(latAbs / 1000000) * signlat) + '° ' + Math.floor(  ((latAbs/1000000) - Math.floor(latAbs/1000000)) * 60)  + '\' ' +  ( Math.floor(((((latAbs/1000000) - Math.floor(latAbs/1000000)) * 60) - Math.floor(((latAbs/1000000) - Math.floor(latAbs/1000000)) * 60)) * 100000) *60/100000 ) + '&quot;'  );
+form11.deglon.value = ((Math.floor(lonAbs / 1000000) * signlon) + '° ' + Math.floor(  ((lonAbs/1000000) - Math.floor(lonAbs/1000000)) * 60)  + '\' ' +  ( Math.floor(((((lonAbs/1000000) - Math.floor(lonAbs/1000000)) * 60) - Math.floor(((lonAbs/1000000) - Math.floor(lonAbs/1000000)) * 60)) * 100000) *60/100000 ) + '&quot;'  );
+signlat=1;
+signlon=1;
+
+" value="تبد&#1740;ل به س&#1740;ستم درجه ا&#1740;" name="submit" type="button">&nbsp; &nbsp;<input tabindex="14" onclick="
+
+form11.reset;
+latAbs=0;
+lonAbs=0;
+
+" value="پاک کردن" style="color: #006600; font-family: Tahoma; height: 35" type="reset"></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="right">
+									<p align="center">
+									<font size="2" face="Tahoma">
+									<label for="DMSlat">&nbsp; عرض جغراف&#1740;ا&#1740;&#1740;
+									<input style="font-size: 12pt; text-align: center; direction: ltr" id="deglat" tabindex="15" maxlength="17" size="17" name="deglat" type="INT">&nbsp; 
+									طول جغراف&#1740;ا&#1740;&#1740;
+									<input style="font-size: 12pt; text-align: center; direction: ltr" id="deglon" tabindex="16" maxlength="19" size="19" name="deglon" type="INT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label></font><nobr>&nbsp;</nobr> 
+									</p></td>
+								</tr>
+							</tbody></table>
+						</form>
+						<p class="bodytext" align="center">
+						<font color="#0000FF" size="2" face="Tahoma">
+						<label for="DMSlat">ته&#1740;ه شده در مرکز تحق&#1740;قات هواشناس&#1740; 
+						کاربرد&#1740; استان اردب&#1740;ل</label></font></p>
+						<p class="bodytext" align="center">
+						<font color="#0000FF" size="2" face="Tahoma">
+						<label for="DMSlat">رسول همت&#1740; - ت&#1740;رماه 1390<br>
+&nbsp;</label></font></p></td>
+					</tr>
+				</tbody></table>
+				<p dir="ltr"><br>
+				<!-- ******** End Document Body******************************************* -->
+				</p></td>
+			</tr>
+		</tbody></table>
+		<p dir="ltr" align="center">&nbsp;</p></td>
+	</tr>
+</tbody></table>
+
+
+
+
+</body></html>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>vaheeds</author>
+  <title>اجرای نرم افزار به صورت آنلاین</title>
+  <description />
+  <content>&lt;p style="text-align: right;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;:کاربران گرامی&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;به منظور جلوگیری از امکان استفاده کاربران از نسخه های قدیمی نرم افزار و اطمینان از اجرای آخرین نسخه موجود بر روی سیستم کاربران، تغییری در سیستم اعمال شده است&amp;nbsp;تا فقط نسخه آنلاین نرم افزار قابل استفاده باشد. این امر از احتمال اجرای نسخه های مختلف بر روی سیستم ها جلوگیری می کند و همیشه تنها آخرین نسخه در دسترس خواهد بود&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;:در این راستا ممکن است بعضی از کاربران هنگام اجرای نرم افزار تنها یکبار با پیغام خطایی مشابه زیر روبرو شوند&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style="font-size: small; color: Red;"&gt;The application can not be started, please contact your application vendor.&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;برای رفع خطا کافیست به Control Panel رفته و سپس وارد Add or Remove Program شوید. برنامه ای با نام Nezarat را از لیست پیدا کرده و دکمه Remove را کلیک کنید. با این عمل شما نسخه قدیمی را یک بار برای همیشه از سیستم خود پاک کرده اید. سپس&amp;nbsp;توسط آیکون اجرای نرم افزار روال عادی اجرای برنامه را ادامه دهید. با کلیک بر روی دکمه Run برنامه بدون مشکل اجرا خواهد شد.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: x-small;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: small;"&gt;&lt;img src="/NezaratBlogEngine/image.axd?picture=2010%2f12%2ftulip-lg.jpg" alt="" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: small;"&gt;لازم به ذکر است نیازی به نصب مجدد برنامه نمی باشد&lt;/span&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;span style="font-size: small;"&gt;با تشکر از توجه شما&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2010-12-28 13:12:00</pubDate>
+  <lastModified>2010-12-28 13:47:29</lastModified>
+  <raters>3</raters>
+  <rating>4.333333</rating>
+  <slug>d8a7d8acd8b1d8a7db8c-d986d8b1d985-d8a7d981d8b2d8a7d8b1-d8a8d987-d8b5d988d8b1d8aa-d8a7d986d984d8a7db8cd986</slug>
+  <tags>
+    <tag>آنلاین</tag>
+    <tag>نسخه جدید</tag>
+    <tag>خطا</tag>
+    <tag>نصب</tag>
+  </tags>
+  <comments>
+    <comment id="9e84e56f-8d2f-4942-ac28-5b5527702c5b" parentid="00000000-0000-0000-0000-000000000000" approved="True">
+      <date>2010-12-29 07:56:48</date>
+      <author>محمدی</author>
+      <email>m.1352.mohamadi@yahoo.com</email>
+      <country />
+      <ip>10.1.21.57</ip>
+      <content>من هم با پیغام مشابه روبرو شدم ولی با پاک کردن نسخه قبلی مشکلم حل نشد. البته آخر پیغام نوشته بود:
+there is not enough space to run the operation.</content>
+    </comment>
+    <comment id="f039af7d-dd7e-44a9-a285-871d157cb222" parentid="00000000-0000-0000-0000-000000000000" approved="True">
+      <date>2010-12-29 08:21:08</date>
+      <author>وحید صادقی</author>
+      <email>vaheeds@gmail.com</email>
+      <country />
+      <ip>10.1.21.57</ip>
+      <content>کاربر گرامی خطایی که شما با آن مواجه شده اید، مربوط به نسخه قدیمی نمی باشد.
+درایو ویندوز شما فضای کافی برای اجرای برنامه ندارد، شما می بایست مقداری از اطلاعات غیر ضروری بر روی درایو C را حذف و یا به جای دیگری انتقال دهید.
+توجه داشته باشید که اجرای برنامه نیاز به حداقل 200 مگابایت فضای خالی بر روی درایو ویندوز دارد.</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>ab60dc1f-5d49-4603-8234-f487542cd6fb</category>
+  </categories>
+  <notifications />
+</post>

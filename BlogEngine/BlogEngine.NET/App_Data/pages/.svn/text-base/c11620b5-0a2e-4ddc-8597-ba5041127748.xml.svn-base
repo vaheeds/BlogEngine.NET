@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>بروز مشکل احتمالی</title>
+  <description />
+  <content>&lt;p class="style4" style="text-align: right; color: #ff3300;"&gt;&lt;span style="color: #003300;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;&lt;strong&gt;کاربران محترم&lt;/strong&gt;:&lt;strong&gt;&amp;nbsp; &lt;/strong&gt;ممکن است&amp;nbsp;در برخی از&amp;nbsp; کامپیوترها،پس از به روز رسانی نرم افزار توسط پشتیبان،در اجرای مجدد آن با مشکل مواجه شوید. در این صورت پوشه Apps را از مسیر ذکر شده در ذیل حذف کنید. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="style4" style="text-align: left; color: #ff3300;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;C:\Documant and Settings\[Your username]\Local Settings\Apps&lt;/span&gt;&lt;/p&gt;
+&lt;p class="style4" style="text-align: right; color: #000000;"&gt;&lt;span style="font-family: tahoma,arial,helvetica,sans-serif;"&gt;ممکن است ویندوز در درایوی غیر از درایو C نصب شده باشد.&lt;/span&gt;&lt;/p&gt;</content>
+  <keywords />
+  <slug>d8a8d8b1d988d8b2-d985d8b4daa9d984-d8a7d8add8aad985d8a7d984db8c</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>True</ispublished>
+  <datecreated>2009-12-19 08:00:16</datecreated>
+  <datemodified>2009-12-19 08:07:58</datemodified>
+</page>

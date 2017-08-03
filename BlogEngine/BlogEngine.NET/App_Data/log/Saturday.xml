@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urls>
+  <url address="http://software/" isSpam="False">1</url>
+  <url address="http://software/EditData3.aspx" isSpam="False">2</url>
+  <url address="http://localhost" isSpam="True">1</url>
+  <url address="http://tckh/" isSpam="False">1</url>
+</urls>

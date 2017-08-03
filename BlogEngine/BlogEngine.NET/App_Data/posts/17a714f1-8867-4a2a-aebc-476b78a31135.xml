@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>پست  تستی</title>
+  <description>سلام
+این یک پست تستی است
+
+خدانگهدار</description>
+  <content>&lt;p style="direction: rtl;"&gt;سلام&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;این یک پست تستی است&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;&lt;img src="/image.axd?picture=/1b.png" alt="" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;خدانگهدار&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2017-08-03 18:45:00</pubDate>
+  <lastModified>2017-08-03 18:46:58</lastModified>
+  <raters>1</raters>
+  <rating>3</rating>
+  <slug>پست-تستی</slug>
+  <tags />
+  <comments />
+  <categories>
+    <category>c223353c-1aef-4a46-afd1-cb61ab1a792d</category>
+  </categories>
+  <notifications />
+</post>
