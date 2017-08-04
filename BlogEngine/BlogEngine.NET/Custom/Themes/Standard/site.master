@@ -73,6 +73,7 @@
                                 <li><a href="<%=Utils.AbsoluteWebRoot %>" class="item-home" title="<%=Resources.labels.home %>"><i class="fa fa-home"></i></a></li>
                                 <li><a href="<%=Utils.AbsoluteWebRoot %>archive" class="item-archive" title="<%=Resources.labels.archive %>"><i class="fa fa-align-left"></i></a></li>
                                 <li><a href="<%=Utils.AbsoluteWebRoot %>contact" class="item-contact" title="<%=Resources.labels.contact %>"><i class="fa fa-envelope"></i></a></li>
+                                <li><a href="<%=Utils.AbsoluteWebRoot %>windows_app/publish/Cable Network Integrated System (NIS).application" title="اجرای نرم افزار NIS"><i class="fa fa-cubes"></i></a></li>
                                 <li><a runat="server" id="aLogin" class="item-login" title=""><span id="aLoginText" runat="server"></span></a></li>
                             </ul>
                         </nav>
@@ -80,13 +81,15 @@
                     <blog:WidgetZone ID="WidgetZone1" runat="server" ZoneName="be_WIDGET_ZONE" />
                     <footer class="blog-footer">
                         <p>
-                            کپی رایت &copy; <%=DateTime.Now.Year %>-2007
+                            Copyright  <%=DateTime.Now.Year %>-2007  &copy;
+                        </p>
+                       <p>   شرکت مخابرات ایران - منطقه خراسان رضوی
+                            </p>
+                        <p>
+                             نرم افزار شبکه کابل و هوایی (NIS) <a href="http://nis/" target="_blank" title=""></a>
                         </p>
                         <p>
-                           مخابرات خراسان رضوی <a href="http://nis/" target="_blank" title="">-نرم افزار شبکه کابل و هوایی-</a>
-                        </p>
-                        <p>
-                            طراحی توسط <a href="http://nis/" rel="nofollow" target="_blank">وحید صادقی</a>
+                            طراحی توسط <a href="http://nis/" rel="nofollow" target="_blank"> وحید صادقی </a>
                         </p>
                     </footer>
                 </aside>
