@@ -59,10 +59,17 @@
 
         protected void LoginUser_OnAuthenticate(object sender, AuthenticateEventArgs e)
         {
-            // always set to false
             e.Authenticated = false;
-
-            Security.AuthenticateUser(LoginUser.UserName, LoginUser.Password, LoginUser.RememberMeSet);
+            if (Page.IsValid && (txtTuring.Text.ToLower() == "msk4"))//Session["CaptchaVerify"].ToString()))
+            {
+                Label1.Text = "";
+                Security.AuthenticateUser(LoginUser.UserName, LoginUser.Password, LoginUser.RememberMeSet);
+            }
+            else
+            {
+                Label1.Text = "عبارت امنیتی نادرست است";
+            }
+            
         }
 
         #endregion

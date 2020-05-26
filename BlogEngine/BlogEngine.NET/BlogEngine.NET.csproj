@@ -124,6 +124,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\account.master" />
+    <Content Include="Account\botdetect-captcha-graffiti.jpg" />
+    <Content Include="Account\Turing.aspx" />
     <Content Include="admin\app\content\blogs\blogView.html" />
     <Content Include="admin\app\content\categories\categoryView.html" />
     <Content Include="admin\app\content\comments\commentView.html" />
@@ -1885,6 +1887,10 @@
     </Compile>
     <Compile Include="Account\register.aspx.designer.cs">
       <DependentUpon>register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Turing.aspx.cs">
+      <DependentUpon>Turing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="admin\admin.master.cs">
       <DependentUpon>admin.master</DependentUpon>
